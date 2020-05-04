@@ -11,4 +11,4 @@ to be *dangerous*. This means you'll be able to use Git to track changes in
 your projects, back up data, share your work with others, and collaborate
 with programmers and other users of Git.
 
-Here you can see the [*Git documents*](https://git-scm.com/doc).
+Here you can see the [*Official Git Documents*](https://git-scm.com/doc).
